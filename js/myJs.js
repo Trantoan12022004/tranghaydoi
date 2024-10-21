@@ -1,9 +1,9 @@
 const textConfig = {
-  text1: "Chào Trang xinh gái",
-  text2: "Nhân ngày 20/10 anh chúc bé  gái luôn vui vẻ, tất cá mọi điều trong cuộc sống đều tuyệt vời nhờ!",
+  text1: "Chào Ngọc Anh xinh gái",
+  text2: "Ngày 22/10 là ngày đẹp nhất trong năm, chúc Ngọc Anh sinh nhất vui vẻ, xinh gái học giỏi, mọi điều đều xịn xò",
   text3: "Thế bây giờ thích quà gì để anh tặng nào ._.",
-  text5: "Dỗi anh ko lấy quà đâu:))",
-  text6: "Có chứ ngu gì không lấy:))",
+  text5: "Quà siêu xịn xò",
+  text6: "Món quà tinh thần đầy ý nghĩa từ anh Toàn",
   text7: "Thế muốn quà gì thì viết điều ước vào đây nào",
   text8: "Bấm gửi cho anh điều ước đi nào :))",
   text9: "Quà siêu to siêu xịn anh Toàn làm nhé<3",
